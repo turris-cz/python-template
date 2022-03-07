@@ -1,0 +1,28 @@
+# Translations template for python-template.
+# Copyright (C) 2022 CZ.NIC z.s.p.o
+# This file is distributed under the same license as the python-template
+# project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: python-template 0.1\n"
+"Report-Msgid-Bugs-To: software@turris.cz\n"
+"POT-Creation-Date: 2022-03-07 20:19+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: foo/__main__.py:13
+msgid "Foo counter"
+msgstr ""
+
+#: foo/__main__.py:17
+msgid "Files to count foos in. Stdin is used if none is specified."
+msgstr ""
+

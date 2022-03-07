@@ -1,0 +1,4 @@
+include:
+  - project: 'turris/python-template'
+    ref: base
+    file: '/base-ci.yml'

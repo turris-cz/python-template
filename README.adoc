@@ -1,4 +1,31 @@
 = Python project template
 CZ.NIC z.s.p.o. <software@turris.cz>
-v0.0, 2022-03-07
+v0.0, 2022-04-07
 :icons:
+
+This is description of your project. Do NOT forget to modify it together with
+title of this file, project dependencies and other parts of this file which
+would require the change.
+
+This file header contains version and date. It is required to enable icons that
+are really nice. The policy is that version is always `V0.0` and date is the
+project creation date, thus there is no need to update this with releases.
+
+
+== Installing
+
+To install latest version from Gitlab's package registry you can use:
+
+pip install --index-url https://gitlab.nic.cz/api/v4/projects/1195/packages/pypi --no-deps <package_name>
+
+
+== Translations
+
+
+== Running tests
+
+This project contains basic tests in directory tests.
+
+To run tests you have to use `pytest`. To run all tests just run it in the top
+level directory of the project. See the https://docs.pytest.org/[pytest
+documentation] for more info.
