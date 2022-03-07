@@ -1,0 +1,4 @@
+= Python project template
+CZ.NIC z.s.p.o. <software@turris.cz>
+v0.0, 2022-03-07
+:icons:
